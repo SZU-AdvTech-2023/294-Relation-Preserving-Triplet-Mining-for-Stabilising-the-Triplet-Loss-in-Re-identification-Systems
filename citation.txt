@@ -1,0 +1,6 @@
+@article{REPO294,
+    author = "Ghosh, Adhiraj and Shanmugalingam, Kuruparan and Lin, Wen-Yan",
+    journal = "arXiv preprint arXiv:2110.07933",
+    title = "{Relation Preserving Triplet Mining for Stabilising the Triplet Loss in Re-identification Systems}",
+    year = "2021"
+}
